@@ -254,18 +254,6 @@ We welcome contributions from the quantum computing and finance communities:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## 📖 Citation
-
-If you use this platform in your research, please cite:
-
-```bibtex
-@software{quantum_portfolio_optimization,
-  title={Quantum-Inspired Portfolio Optimization Research Platform},
-  author={Research Team},
-  year={2024},
-  url={https://github.com/your-username/Quantum_Inspired_Portfolio_Optamization},
-  version={1.0.0}
-}
 ```
 
 ## 🏆 Research Impact
@@ -292,5 +280,22 @@ Developed in collaboration with leading quantum computing and finance research g
 **🌟 Ready to explore the quantum frontier in finance?**
 
 This platform provides everything needed for cutting-edge research in quantum portfolio optimization. From theoretical foundations to practical implementations, it's designed to accelerate your research and demonstrate quantum advantages in real-world financial problems.
+
+## 📚 Citation
+
+If you find this research platform useful, please cite it as:
+
+> Abhishek Tiwari *Quantum-Inspired Portfolio Optimization: Hybrid Classical-Quantum Algorithms for Financial Decision Making*. GitHub Repository, 2025. [https://github.com/Abhishek282001Tiwari/Quantum_Inspired_Portfolio_Optamization](https://github.com/Abhishek282001Tiwari/Quantum_Inspired_Portfolio_Optamization)
+
+### BibTeX
+
+```bibtex
+@misc{tiwari2025quantum,
+  author       = {Abhishek Tiwari},
+  title        = {Quantum-Inspired Portfolio Optimization: Hybrid Classical-Quantum Algorithms for Financial Decision Making},
+  year         = {2025},
+  howpublished = {\url{https://github.com/Abhishek282001Tiwari/Quantum_Inspired_Portfolio_Optamization}},
+  note         = {GitHub Repository}
+}
 
 *Built for researchers, by researchers. Open source, research-grade, and ready for academic excellence.*
